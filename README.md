@@ -1,4 +1,3 @@
-# private-handsOn-aws-sso
 
 # 資料
 
